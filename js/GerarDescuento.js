@@ -1,4 +1,4 @@
-let heladosConDescuento = hela2.map(hela3 => {
+let heladosConDescuento = hela2.map(hela2 => {
   return {
     nombre: hela2.nombre,
     categoria: hela2.categoria,
